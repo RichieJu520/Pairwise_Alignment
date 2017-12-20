@@ -1,4 +1,9 @@
 # Emboss_Stretcher_batch.py
+"""
+@author: Feng Ju
+@email: richieju520@gmail.com
+The script was written and tested in python 2.7 and biopython 1.58
+"""
 
 #print 'load module for use emboss and python on Euler'
 import subprocess
