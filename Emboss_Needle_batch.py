@@ -1,5 +1,10 @@
 # Emboss_Needle_batch.py
 
+@author: Feng Ju
+@email: richieju520@gmail.com
+The script was written and tested in python 2.7
+"""
+
 #print 'load module for use emboss and python on Euler'
 import subprocess
 #subprocess.call('module load gcc/4.8.2 gdc python/2.7.11',shell=True)
